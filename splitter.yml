@@ -1,11 +1,14 @@
 delete_data: False
-directions: [1, 3]
+directions: [ 1, 3 ]
 n_groups: 5
+
 interval_window: 7
 clicks_threshold: 0
+
 min_clck_share_in_group: 0.01
 min_pix_share_in_group: 0.001
 min_slices_share_in_group: 0.01
+
 geo_bits: 9
   'a1': 0
   'a2': 1
