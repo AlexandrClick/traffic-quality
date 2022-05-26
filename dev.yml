@@ -1,0 +1,14 @@
+stats:
+  connection:
+    host: ch-1-eu.adsrv.wtf
+    port: 9000
+    username:
+    password:
+    database: clickadu
+
+mysql:
+  host: mysql.cladp.com
+  port: 3306
+  username:
+  password:
+  database: db02
